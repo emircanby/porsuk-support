@@ -1,6 +1,9 @@
 ---
 layout: default
+image: https://emircanby.github.io/porsuk-support/assets/porsuk-icon.png
 ---
+
+<img src="assets/porsuk-icon.png" width="120" alt="Porsuk app icon" />
 
 # Porsuk
 
